@@ -1,5 +1,6 @@
 # rules
 DOMAIN-KEYWORD,sciencedirect,DIRECT
 DOMAIN,dx.doi.org,DIRECT
-DOMAIN,cell.com,DIRECT
-DOMAIN,nature.com,DIRECT
+DOMAIN-SUFFIX,cell.com,DIRECT
+DOMAIN-SUFFIX,nature.com,DIRECT
+DOMAIN-KEYWORD,webofknowledge,DIRECT
