@@ -1,0 +1,5 @@
+# rules
+DOMAIN-KEYWORD,sciencedirect,DIRECT
+DOMAIN,dx.doi.org,DIRECT
+DOMAIN,cell.com,DIRECT
+DOMAIN,nature.com,DIRECT
