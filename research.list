@@ -1,4 +1,4 @@
-# rules
+# research
 DOMAIN-SUFFIX,sciencedirect.com,DIRECT
 DOMAIN-SUFFIX,doi.org,DIRECT
 DOMAIN-SUFFIX,cell.com,DIRECT
@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,webofknowledge.com,DIRECT
 DOMAIN-SUFFIX,springer.com,DIRECT
 DOMAIN-SUFFIX,sciencemag.org,DIRECT
 DOMAIN-SUFFIX,acs.org,DIRECT
+DOMAIN-SUFFIX,metascape.org,DIRECT
