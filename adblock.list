@@ -114,7 +114,7 @@ DOMAIN-SUFFIX,ader.mobi
 DOMAIN-SUFFIX,adform.net
 DOMAIN-SUFFIX,adfuture.cn
 DOMAIN-SUFFIX,adinfuse.com
-DOMAIN-SUFFIX,adjust.com
+#DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,adlive.cn
 DOMAIN-SUFFIX,adm.easou.com
