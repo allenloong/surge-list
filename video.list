@@ -21,7 +21,6 @@ USER-AGENT,InstantVideo.US*
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,llnwd.net
-
 # Spotify
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
